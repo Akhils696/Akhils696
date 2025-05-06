@@ -50,9 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhils696&show_icons=true&theme=tokyonight&hide_title=false" alt="Akhil's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhils696&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhils696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhils696&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhils696&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
