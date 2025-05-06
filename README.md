@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="30"/>
   </a>
   <a href="https://www.hackerrank.com/akhilsenthil696" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/hackerrank.png" alt="HackerRank" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30"/>
   </a>
   <a href="https://leetcode.com/AKHIL_S_696" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="30"/>
