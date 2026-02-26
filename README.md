@@ -1,7 +1,13 @@
-<h1 align="center">Hello, I'm Akhil Senthil</h1>
-<h3 align="center">Computer Science Engineering Undergraduate | AI & Software Development Specialist</h3>
+<div align="center">
+
+# 🚀 Akhil Senthil
+## _AI Enthusiast | Software Developer | CSE Undergraduate_
+
+</div>
 
 ---
+
+
 
 ### 👨‍💻 About Me
 
