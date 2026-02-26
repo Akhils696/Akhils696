@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Akhil Senthil</h1>
-<h3 align="center">AI Enthusiast | Aspiring Software Developer | CSE Undergrad</h3>
+<h1 align="center">Hello, I'm Akhil Senthil</h1>
+<h3 align="center">Computer Science Engineering Undergraduate | AI & Software Development Specialist</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Science & Engineering Undergraduate** at Amrita Vishwa Vidyapeetham
-- 🧠 Passionate about **Artificial Intelligence**, **Software Development**, and **Problem Solving**
-- 🔭 Currently working on full-stack projects and AI mini models  
-- 🌱 Learning Embedded C, APIs, and cloud platforms like AWS  
-- 💡 I love building solutions to real-world problems  
+- 🎓 Computer Science Engineering Undergraduate at Amrita Vishwa Vidyapeetham with a passion for leveraging technology to solve complex challenges
+- 🧠 Core interests in **Artificial Intelligence**, **Software Development**, and **Embedded Systems**
+- 🔭 Exploring advanced topics in AI, full-stack development, and hardware-software integration
+- 🌱 Continuously expanding expertise in Embedded C, APIs, and cloud platforms like AWS
+- 💡 Dedicated to creating innovative solutions that bridge the gap between theoretical knowledge and practical applications
 - 📫 Reach me at: **akhilsenthil696@gmail.com**
 
 ---
