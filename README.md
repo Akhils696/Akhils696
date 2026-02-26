@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering student  
+- 🎓 **Computer Science & Engineering Undergraduate** at Amrita Vishwa Vidyapeetham
 - 🧠 Passionate about **Artificial Intelligence**, **Software Development**, and **Problem Solving**
 - 🔭 Currently working on full-stack projects and AI mini models  
 - 🌱 Learning Embedded C, APIs, and cloud platforms like AWS  
@@ -57,8 +57,16 @@
 
 ---
 
+### 🎯 Goals
+
+- Contributing to open-source projects and building meaningful software solutions
+- Advancing my knowledge in AI and machine learning applications
+- Developing full-stack applications with real-world impact
+
+---
+
 ### ⚡ Fun Fact
-> I’m not just learning to code — I’m learning to think 💭
+> I'm not just learning to code — I'm learning to think 💭
 
 ---
 
